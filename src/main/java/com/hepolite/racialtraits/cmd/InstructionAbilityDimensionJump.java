@@ -12,7 +12,7 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
 import com.hepolite.coreutility.cmd.Instruction;
-import com.hepolite.racialtraits.race.ability.AbilityDimensionJump;
+import com.hepolite.racialtraits.ability.AbilityDimensionJump;
 
 public class InstructionAbilityDimensionJump extends Instruction
 {

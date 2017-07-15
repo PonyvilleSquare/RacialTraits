@@ -16,7 +16,7 @@ import org.bukkit.event.player.PlayerQuitEvent;
 
 import com.hepolite.coreutility.event.CoreHandler;
 import com.hepolite.coreutility.log.Log;
-import com.hepolite.racialtraits.race.ability.Ability;
+import com.hepolite.racialtraits.ability.Ability;
 import com.hepolite.racialtraits.race.races.RaceBatPony;
 import com.hepolite.racialtraits.race.races.RaceChangeling;
 import com.hepolite.racialtraits.race.races.RaceEarthPony;

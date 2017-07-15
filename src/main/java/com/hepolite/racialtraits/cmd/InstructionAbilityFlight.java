@@ -7,7 +7,7 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
 import com.hepolite.coreutility.cmd.Instruction;
-import com.hepolite.racialtraits.race.ability.AbilityFlight;
+import com.hepolite.racialtraits.ability.AbilityFlight;
 
 public class InstructionAbilityFlight extends Instruction
 {

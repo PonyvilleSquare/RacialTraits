@@ -1,24 +1,24 @@
 package com.hepolite.racialtraits.race.races;
 
 import com.hepolite.coreutility.apis.damage.DamageType;
+import com.hepolite.racialtraits.ability.AbilityAttitudeControl;
+import com.hepolite.racialtraits.ability.AbilityCarry;
+import com.hepolite.racialtraits.ability.AbilityChangeWeather;
+import com.hepolite.racialtraits.ability.AbilityCharged;
+import com.hepolite.racialtraits.ability.AbilityCloudSeed;
+import com.hepolite.racialtraits.ability.AbilityDash;
+import com.hepolite.racialtraits.ability.AbilityFlight;
+import com.hepolite.racialtraits.ability.AbilityFlyFaster;
+import com.hepolite.racialtraits.ability.AbilityFlyer;
+import com.hepolite.racialtraits.ability.AbilityGlide;
+import com.hepolite.racialtraits.ability.AbilityGust;
+import com.hepolite.racialtraits.ability.AbilityHailstorm;
+import com.hepolite.racialtraits.ability.AbilityLightning;
+import com.hepolite.racialtraits.ability.AbilityPreen;
+import com.hepolite.racialtraits.ability.generic.AbilityDefenceModifierPassive;
+import com.hepolite.racialtraits.ability.generic.AbilityHungerModifierFlight;
+import com.hepolite.racialtraits.ability.generic.AbilityProduction;
 import com.hepolite.racialtraits.race.Race;
-import com.hepolite.racialtraits.race.ability.AbilityAttitudeControl;
-import com.hepolite.racialtraits.race.ability.AbilityCarry;
-import com.hepolite.racialtraits.race.ability.AbilityChangeWeather;
-import com.hepolite.racialtraits.race.ability.AbilityCharged;
-import com.hepolite.racialtraits.race.ability.AbilityCloudSeed;
-import com.hepolite.racialtraits.race.ability.AbilityDash;
-import com.hepolite.racialtraits.race.ability.AbilityFlight;
-import com.hepolite.racialtraits.race.ability.AbilityFlyFaster;
-import com.hepolite.racialtraits.race.ability.AbilityFlyer;
-import com.hepolite.racialtraits.race.ability.AbilityGlide;
-import com.hepolite.racialtraits.race.ability.AbilityGust;
-import com.hepolite.racialtraits.race.ability.AbilityHailstorm;
-import com.hepolite.racialtraits.race.ability.AbilityLightning;
-import com.hepolite.racialtraits.race.ability.AbilityPreen;
-import com.hepolite.racialtraits.race.ability.generic.AbilityDefenceModifierPassive;
-import com.hepolite.racialtraits.race.ability.generic.AbilityHungerModifierFlight;
-import com.hepolite.racialtraits.race.ability.generic.AbilityProduction;
 
 public class RacePegasus extends Race
 {

@@ -11,7 +11,7 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
 import com.hepolite.coreutility.cmd.Instruction;
-import com.hepolite.racialtraits.race.ability.Ability;
+import com.hepolite.racialtraits.ability.Ability;
 
 public class InstructionAbilityChangeWeather extends Instruction
 {

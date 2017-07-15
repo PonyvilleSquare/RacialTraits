@@ -1,23 +1,23 @@
 package com.hepolite.racialtraits.race.races;
 
 import com.hepolite.coreutility.apis.damage.DamageClass;
+import com.hepolite.racialtraits.ability.AbilityCropExpert;
+import com.hepolite.racialtraits.ability.AbilityFarmer;
+import com.hepolite.racialtraits.ability.AbilityFertilizing;
+import com.hepolite.racialtraits.ability.AbilityGreenHooves;
+import com.hepolite.racialtraits.ability.AbilityGroundPound;
+import com.hepolite.racialtraits.ability.AbilityGrowthExpertise;
+import com.hepolite.racialtraits.ability.AbilityHoofStrike;
+import com.hepolite.racialtraits.ability.AbilityKick;
+import com.hepolite.racialtraits.ability.AbilityLeap;
+import com.hepolite.racialtraits.ability.AbilityNaturalConnection;
+import com.hepolite.racialtraits.ability.AbilityObservant;
+import com.hepolite.racialtraits.ability.AbilitySturdy;
+import com.hepolite.racialtraits.ability.AbilitySwiftness;
+import com.hepolite.racialtraits.ability.AbilityTendAnimals;
+import com.hepolite.racialtraits.ability.generic.AbilityDefenceModifierPassive;
+import com.hepolite.racialtraits.ability.generic.AbilitySpeedModifierPassive;
 import com.hepolite.racialtraits.race.Race;
-import com.hepolite.racialtraits.race.ability.AbilityCropExpert;
-import com.hepolite.racialtraits.race.ability.AbilityFarmer;
-import com.hepolite.racialtraits.race.ability.AbilityFertilizing;
-import com.hepolite.racialtraits.race.ability.AbilityGreenHooves;
-import com.hepolite.racialtraits.race.ability.AbilityGroundPound;
-import com.hepolite.racialtraits.race.ability.AbilityGrowthExpertise;
-import com.hepolite.racialtraits.race.ability.AbilityHoofStrike;
-import com.hepolite.racialtraits.race.ability.AbilityKick;
-import com.hepolite.racialtraits.race.ability.AbilityLeap;
-import com.hepolite.racialtraits.race.ability.AbilityNaturalConnection;
-import com.hepolite.racialtraits.race.ability.AbilityObservant;
-import com.hepolite.racialtraits.race.ability.AbilitySturdy;
-import com.hepolite.racialtraits.race.ability.AbilitySwiftness;
-import com.hepolite.racialtraits.race.ability.AbilityTendAnimals;
-import com.hepolite.racialtraits.race.ability.generic.AbilityDefenceModifierPassive;
-import com.hepolite.racialtraits.race.ability.generic.AbilitySpeedModifierPassive;
 import com.hepolite.racialtraits.resource.ResourceStamina;
 
 public class RaceEarthPony extends Race

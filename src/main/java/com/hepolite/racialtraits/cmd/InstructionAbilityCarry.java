@@ -9,8 +9,8 @@ import org.bukkit.entity.Entity;
 import org.bukkit.entity.Player;
 
 import com.hepolite.coreutility.cmd.Instruction;
-import com.hepolite.racialtraits.race.ability.AbilityCarry;
-import com.hepolite.racialtraits.race.ability.AbilityCarry.Request;
+import com.hepolite.racialtraits.ability.AbilityCarry;
+import com.hepolite.racialtraits.ability.AbilityCarry.Request;
 
 public class InstructionAbilityCarry extends Instruction
 {

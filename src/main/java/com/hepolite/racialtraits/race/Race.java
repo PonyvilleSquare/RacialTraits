@@ -10,7 +10,7 @@ import org.bukkit.entity.Player;
 
 import com.hepolite.coreutility.CoreUtility;
 import com.hepolite.racialtraits.RacialTraits;
-import com.hepolite.racialtraits.race.ability.Ability;
+import com.hepolite.racialtraits.ability.Ability;
 import com.hepolite.racialtraits.resource.Resource;
 
 public class Race
