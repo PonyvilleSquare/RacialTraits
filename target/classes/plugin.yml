@@ -1,0 +1,19 @@
+name: RacialTraits
+authors: [Hepolite]
+main: com.hepolite.racialtraits.PluginRacialTraits
+version: 0.0.1
+depend: [CoreUtility, EffectLib, LibsDisguises, PermissionsEx, ProtocolLib, SkillAPI]
+description: >
+             Races and many different abilities are provided through this plugin
+
+commands:
+    race:
+        description: Core command for Racial Traits. Use /race help for more info
+        usage: /race <arguments>
+        permission: racialtraits.race.basic
+        permission-message: Sorry, you don't have permission to use this command
+permissions:
+    racialtraits.race.admin:
+        description: Gives access to the admin Racial Traits commands
+    racialtraits.race.basic:
+        description: Gives access to the basic Racial Traits commands
